@@ -14,7 +14,7 @@ This script will create curves with custom names as you wish. It also has a real
 ## Release notes
 Mar. 31, 2025: Fixed the issue of PySide importing in Maya 2025.
 ## Troubleshooting
-- If there is any issues with PySide importing, go to MinhThu_curve_tool/ui/dialogs/curve_maker_dialog. In line 2 you should see
+- If there is any issues with PySide importing in previous versions of Maya, go to MinhThu_curve_tool/ui/dialogs/curve_maker_dialog. In line 2 you should see
 ```
 import PySide6 as QT
 ```
